@@ -1,5 +1,5 @@
 # WhatCityAreYou
-A travel-themed quiz - Creative Coding A2 project
+A travel-themed quiz - Creative Coding A2 project - 
 Players answer 10 questions about their interests and everyday preferences, then receive a city match: Paris, Tokyo, Barcelona, New York or Sydney. The idea is to offer a fun way to imagine a different lifestyle or a future trip.
 
 # How to play
